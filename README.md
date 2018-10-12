@@ -28,9 +28,7 @@ a) The information and materials collected by you in this application will be st
 a) This application account has security protection function. Please keep your username and password information safely. This application will ensure that your information is not lost, not abused or altered by security measures such as encrypting user passwords; The aforementioned security measures, but please also note that there is no “perfect security measures” on the information network;
 b) When using this application web service for online transactions, you will inevitably have to deal with the counterparty or potential transaction pairs;
 The party discloses its personal information, such as contact information or postal address; please protect your personal information and provide it to others only when necessary; if you find that your personal information is leaked, especially the application username and password. If there is a leak, please contact the application customer service immediately so that the application can take corresponding measures;
-6. Personal Information
 
-a) When you synchronize through HealthKit, you may be asked to authorize whether to synchronize. This information is managed by the iOS system. The APP does not store health data in any form, nor does it collect and store your personal health data in any form. 
 Privacy Policy Terms
 
 a) By using this app, you agree to the terms and conditions of this Privacy Policy. If you do not agree to this policy, please do not use this app. We reserve the right to change, modify, add or remove portions of this policy at any time. Please check this page regularly for any changes. If you continue to use any changes in our app after the release of these terms will mean that you have received these adjustments.
